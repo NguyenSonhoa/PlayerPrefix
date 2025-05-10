@@ -1,0 +1,7 @@
+name: PlayerPrefix
+version: 1.0
+main: com.example.playerprefix.PlayerPrefix
+api-version: 1.19
+depend: [PlaceholderAPI, LuckPerms]
+authors: [SaneNuyan]
+description: A plugin that provides player prefix placeholders for LuckPerms 
